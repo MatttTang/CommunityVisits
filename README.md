@@ -45,3 +45,7 @@ If the user didn’t encounter an error for step 2 and 3, the program should suc
 
 ## Reflection
 When our group first tackled this project, primarily, we were focused on trying to make this program as efficient as possible. We tried many different ways when we were approaching the problem, but we always found ourselves creating an ineffecient algorithm. For example, when we attempted a dynamic solution, we realized that we had to identify and make a correct decision in the beginning of the iteration for the rest of the connection to work out as effeciently as possible. In the end, we have decided that all of the algorithms that we came up with is ineffective compared to the algorithm which was inspired by the Greedy Method. As a result, we have realized that O(N^3) would be the most efficient time complexity for this problem and decided to stick with it. After the program was constructed initially, our group took a step further and tried our best to make the program as optimized as possible (reference) in order to further boost the efficiency of our program.
+
+## Results
+
+<img src= "names16.JPG?raw=true"/>
