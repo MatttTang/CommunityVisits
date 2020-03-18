@@ -49,3 +49,7 @@ When our group first tackled this project, primarily, we were focused on trying 
 ## Results
 
 <img src= "names16.JPG?raw=true"/>
+Program running with 16 name file, and group size of 3
+
+<img src="names29.JPG?raw=true"/>
+Program running with 29 name file, and group size of 4
