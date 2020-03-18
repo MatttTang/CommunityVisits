@@ -32,7 +32,7 @@ Before attempting to start the program, it is crucial for the user to create a .
 
 Here are the recommended prerequisites for the user before attempting to run our program:
 1. Install Intellij IDE
-2. Through Maven, install GraphStream library: org.graphstream:gs-core:1.3
+2. After downloading the .jar file, include it in to the project to add it in to the external library of the project
 
 In order to start and run the program as intended, please follow these steps to effectively utilize the program:
 1. Build and run the program
@@ -44,4 +44,4 @@ If the user didn’t encounter an error for step 2 and 3, the program should suc
 2. Animated visualization of the graph that the program has created
 
 ## Reflection
-When our group first tackled this project, primarily, we were focused on trying to make this program as efficient as possible. We tried many different ways to reduce the memory of an algorithm and even tried to research if there’s any other way to reduce the time complexity from O(N^3) as well. As a result, we have realized that O(N^3) would be the most efficient time complexity for this problem and decided to stick with it. After the program was constructed initially, our group took a step further and tried our best to make the program as optimized as possible (reference) in order to further boost the efficiency of our program.
+When our group first tackled this project, primarily, we were focused on trying to make this program as efficient as possible. We tried many different ways when we were approaching the problem, but we always found ourselves creating an ineffecient algorithm. For example, when we attempted a dynamic solution, we realized that we had to identify and make a correct decision in the beginning of the iteration for the rest of the connection to work out as effeciently as possible. In the end, we have decided that all of the algorithms that we came up with is ineffective compared to the algorithm which was inspired by the Greedy Method. As a result, we have realized that O(N^3) would be the most efficient time complexity for this problem and decided to stick with it. After the program was constructed initially, our group took a step further and tried our best to make the program as optimized as possible (reference) in order to further boost the efficiency of our program.
