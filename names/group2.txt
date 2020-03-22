@@ -1,22 +1,22 @@
 John
-Mary, Abel
-Robin, Kali
+Mary,Abel
+Robin,Kali
 Blackbeard
-Chrom, Sonic
+Chrom,Sonic
 Mario
 Peach
 Daisy
 Ganondorf
-Luigi, Inkling
-Donkey Kong
-Ice Climber
-Samus, Banjo
+Luigi,Inkling
+DonkeyKong
+IceClimber
+Samus,Banjo
 Kazooie
 Mewtwo
 Lucario
 Pikachu
 Lucina
-Ike, Byleth
+Ike,Byleth
 Matthew
-Cabel, Perry
+Cabel,Perry
 Ren
