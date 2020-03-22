@@ -18,7 +18,7 @@ public class Main {
             data = new String(Files.readAllBytes(Paths.get(fileName)));
             return data;
         }else{
-            System.out.println("File does not exist");
+            System.out.println("File does not exist. Ending the program");
             System.exit(0);
         }
         return fileName;
@@ -86,8 +86,10 @@ public class Main {
                 groups = myScan.nextInt();
             } while (groups <= 0);
             groupSize = totWeight / groups;
+            // Conditions that will make this program fail
             if (groupSize < 2 || groupSize > totWeight || (groupSize == 2 && couples > 0) || (groupSize == 3 && couples > 1) || (groupSize % 2 == 0 && singles == 1) || (groupSize % 2 == 1 && singles == 0)){
                 valid = false;
+                System.out.println("The group number does not work with the current file. Please enter a different value.");
             }
         }while (!valid);
         int rem = totWeight% groups;
@@ -182,11 +184,14 @@ public class Main {
             // Print out each iteration
             System.out.println("Iteration: " + iterationNum);
             for (int q = 0; q < gList.size(); q++){
-                System.out.print("G" + iterationNum);
-                System.out.print(",");
+                String groupPeople = gList.get(q).occupants;
+                // Replacing comma with + for better output readability
+                groupPeople = groupPeople.replace(',', '+');
+
+                System.out.print("G" + iterationNum + ", ");
                 System.out.print(q + 1);
                 System.out.print(":");
-                System.out.println(gList.get(q).occupants);
+                System.out.println(groupPeople);
             }
             System.out.print("\n");
             // Clear the groups for the iteration
