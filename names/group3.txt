@@ -1,25 +1,25 @@
-Draven, Ahri
-Zed, Syndra
+Draven,Ahri
+Zed,Syndra
 Fiddlesticks
-Kaisa, Braum
-Lucian, Senna
+Kaisa,Braum
+Lucian,Senna
 Sett
 Talon
 Orianna
 Zoe
-Lee Sin
+LeeSin
 Warwick
-Soraka, Caitlyn
+Soraka,Caitlyn
 Oryx
 Ashe
 IQ
 Blitz
 Elise
-Leblanc, Nautilus
+Leblanc,Nautilus
 Kassadin
 Blitzcrank
-Kog Maw
-Kalista, Maokai
+KogMaw
+Kalista,Maokai
 Malphite
-Ornn, Qiyana
-Gang Plank, Illaoi
+Ornn,Qiyana
+GangPlank, Illaoi
