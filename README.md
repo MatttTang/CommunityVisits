@@ -41,6 +41,9 @@ In order to start and run the program as intended, please follow these steps to 
 
 *Please ensure that the file hierarchy has the file of names within the project directory in IntelliJ, but outside any other directories*
 
+<img src="direct.jpg?raw=true"/>
+*In this example, the project directory is CommunityVisit, and the name.txt files exist within it, but not within any other directories. When you click on the icon displayed in the picture, the file hierarchy will pop up, and check to see it looks like this*
+
 
 
 If the user didn’t encounter an error for step 2 and 3, the program should successfully run and display two results:
