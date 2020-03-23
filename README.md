@@ -1,20 +1,7 @@
 # Creating Community Small Groups
+A work by: Matthew Tang & Joon Won Song
 
-_**You should erase this the text below as you fill it up with your own text**_
-
-Here you will describe your term project. Remember to write your names.
-[More detailed instructions here](SmallGroups-Graph.pdf)
-
-You will need to include in this repository:
-- `group1.txt` a file with 16 names
-- `group2.txt` a file with 29 names
-- `group3.txt` a file with 34 names
-- The source code of your program
-
-This document should be organized as follows:
-
-# Creating Community Small Groups
-A work by: McDonald Berger and Igor Tzankoven
+## Introduction
 
 Along with the rest of CSC 3430 class, our group (Matthew Tang and Junwon Song) was assigned to design and develop a program that can help out with a church community activity, which is having every member going to everyone’s home. However, the program has to be set up under these conditions:
 - The user has to enter in how many people will be assigned per group
