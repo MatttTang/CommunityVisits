@@ -58,7 +58,7 @@ When our group first tackled this project, primarily, we were focused on trying 
 
 ## Results
 
-<a href=https://www.youtube.com/watch?v=gbDyaXYKQBo>A video demonstrating the program running</a>
+<a href="https://www.youtube.com/watch?v=gbDyaXYKQBo">A video demonstrating the program running</a>
 
 <img src= "names16.JPG?raw=true"/>
 Program running with 16 name file, and group size of 3
