@@ -4,7 +4,9 @@ A work by: Matthew Tang & Jun Won Song
 ## Introduction
 
 Along with the rest of CSC 3430 class, our group (Matthew Tang and Junwon Song) was assigned to design and develop a program that can help out with a church community activity, which is having every member going to everyone’s home. However, the program has to be set up under these conditions:
-- The user has to enter in how many people will be assigned per group
+- Every week, people will be put into groups, with a group member being a host
+- The user will enter how many groups to be made
+- Everyone must host every other person once
 - If there's a married couple, married couple always go together
 - If there's a leftover person after assigning everyone to a full group, then the leftover person will be added to the last full group
 
