@@ -1,5 +1,5 @@
 # Creating Community Small Groups
-A work by: Matthew Tang & Joon Won Song
+A work by: Matthew Tang & Jun Won Song
 
 ## Introduction
 
