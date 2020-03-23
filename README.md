@@ -62,6 +62,7 @@ When our group first tackled this project, primarily, we were focused on trying 
 
 <img src= "names16.JPG?raw=true"/>
 Program running with 16 name file, and group size of 3
+<a href="https://docs.google.com/document/d/11Dsi9Nn5zLMs93LFpFuHxSL4qjcy85WYAXLwhUTpX40/edit?usp=sharing">Full Output</a>
 
 <img src="names29.JPG?raw=true"/>
 Program running with 29 name file, and group size of 4
